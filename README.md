@@ -3,6 +3,8 @@ Socially Responsible Investing
 
 Notes on socially responsible investing.
 
+This work can be viewed at <http://jfinkels.github.com/socialinvesting>.
+
 Copyright 2012 Jeffrey Finkelstein.
 
 <span xmlns:dct="http://purl.org/dc/terms/"
