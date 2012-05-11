@@ -5,6 +5,8 @@ Notes on socially responsible investing.
 
 This work can be viewed at <http://jfinkels.github.com/socialinvesting>.
 
+To suggest changes, please [create a new issue at GitHub](https://github.com/jfinkels/socialinvesting/issues).
+
 Copyright 2012 Jeffrey Finkelstein.
 
 <span xmlns:dct="http://purl.org/dc/terms/"
